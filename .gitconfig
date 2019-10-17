@@ -1,0 +1,10 @@
+[user]
+	email = nedda.amini@gmail.com
+	name = Nedda Amini
+[alias]
+	co = checkout
+	br = branch
+	pmr = pull origin master --rebase
+	st = status
+[core]
+	editor = vim
